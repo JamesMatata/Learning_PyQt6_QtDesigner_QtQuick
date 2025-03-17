@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="images">
+    <file>addbook.png</file>
+    <file>addMember.png</file>
+    <file>images.qrc</file>
+    <file>issue.png</file>
+    <file>renew.png</file>
+    <file>search.png</file>
+    <file>submit.png</file>
+    <file>viewBooks.png</file>
+    <file>viewMembers.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+.venv/
+test.py
+example.db
+studentMarks.db
+
+19-QtQuick_Multimedia/media/*
